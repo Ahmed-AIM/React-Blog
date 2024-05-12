@@ -341,6 +341,7 @@ Make sure that Nginx Full rule is available
 ufw status
 ```
 
+
 ```
 certbot --nginx -d example.com -d www.example.com
 ```
